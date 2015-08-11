@@ -1,0 +1,9 @@
+data/data/HTTPText.h.i
+data/data/HTTPText.cpp.i
+data/HTTPClient.h.i
+data/data/HTTPPayload.h.i
+data/HTTPClient.cpp.i
+data/data/HTTPMap.h.i
+data/data/HTTPPayload.cpp.i
+data/IHTTPData.h.i
+data/data/HTTPMap.cpp.i

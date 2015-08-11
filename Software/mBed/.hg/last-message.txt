@@ -1,0 +1,1 @@
+- program ensures endOfDay > startOfDay. i.e when we tell datalogger to operate between 23:00 and 1am , we're referring to 1am of the next day; - using correct USSD command for MTN to get SIM balance
